@@ -1,1 +1,55 @@
-<mxfile host="app.diagrams.net" modified="2022-06-19T13:42:53.617Z" agent="5.0 (X11)" version="20.0.1" etag="ijXsgHkPi4Tjo3GRIW7D" type="github"><diagram id="LykK6aMaTfUkOWI9q7YW">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-19T13:57:17.898Z" agent="5.0 (X11)" etag="8AqLVjsnC3ZigmOtqTwG" version="20.0.1" type="github">
+  <diagram id="LykK6aMaTfUkOWI9q7YW" name="Page-1">
+    <mxGraphModel dx="1350" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Dlgis1UK2KXIgaP-ehQ8-1" value="&lt;b&gt;setting_currencies&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="120" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Dlgis1UK2KXIgaP-ehQ8-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="Dlgis1UK2KXIgaP-ehQ8-2" target="Dlgis1UK2KXIgaP-ehQ8-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dlgis1UK2KXIgaP-ehQ8-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="Dlgis1UK2KXIgaP-ehQ8-2" target="Dlgis1UK2KXIgaP-ehQ8-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dlgis1UK2KXIgaP-ehQ8-2" value="&lt;b&gt;shop_orders&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="270" y="190" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Dlgis1UK2KXIgaP-ehQ8-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="Dlgis1UK2KXIgaP-ehQ8-3" target="Dlgis1UK2KXIgaP-ehQ8-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dlgis1UK2KXIgaP-ehQ8-3" value="&lt;b&gt;shop_baskets&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="270" y="290" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Dlgis1UK2KXIgaP-ehQ8-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="Dlgis1UK2KXIgaP-ehQ8-4" target="Dlgis1UK2KXIgaP-ehQ8-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dlgis1UK2KXIgaP-ehQ8-4" value="&lt;div&gt;&lt;b&gt;shop_basket_items&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="460" y="290" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Dlgis1UK2KXIgaP-ehQ8-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="Dlgis1UK2KXIgaP-ehQ8-5" target="Dlgis1UK2KXIgaP-ehQ8-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dlgis1UK2KXIgaP-ehQ8-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="Dlgis1UK2KXIgaP-ehQ8-5" target="Dlgis1UK2KXIgaP-ehQ8-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dlgis1UK2KXIgaP-ehQ8-5" value="&lt;b&gt;catalog_products&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="460" y="190" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Dlgis1UK2KXIgaP-ehQ8-6" value="&lt;b&gt;catalog_brand&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="120" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Dlgis1UK2KXIgaP-ehQ8-7" value="&lt;b&gt;catalog_category&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="200" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Dlgis1UK2KXIgaP-ehQ8-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Dlgis1UK2KXIgaP-ehQ8-8" target="Dlgis1UK2KXIgaP-ehQ8-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dlgis1UK2KXIgaP-ehQ8-8" value="&lt;b&gt;catalog_segment&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="250" width="120" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
